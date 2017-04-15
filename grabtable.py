@@ -1,5 +1,3 @@
-import pandas as pd
-import re
 from urllib.request import urlopen
 
 def get_data(etf):
